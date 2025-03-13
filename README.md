@@ -1,4 +1,5 @@
 # Tugas-Model-Warna-Citra
+Penjelasan input dan output gambar <br>
 1. Citra Negatif <br>
 Kondisi Input :<br>
 Citra dengan nilai piksel antara 0 dan 255.<br>
